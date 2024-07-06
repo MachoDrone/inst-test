@@ -1,1 +1,1 @@
-su - md
+su - $USER
